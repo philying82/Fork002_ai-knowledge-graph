@@ -6,3 +6,5 @@ lib/
 
 *.egg-info
 __pycache__
+
+**/contracts/

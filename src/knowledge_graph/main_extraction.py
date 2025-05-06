@@ -260,18 +260,18 @@ def main():
         except Exception as e:
             print(f"Warning: Could not save raw data to {json_output}: {e}")
         
-    #     # Visualize the knowledge graph
-    #     stats = visualize_knowledge_graph(result, args.output, config=config)
-    #     print("\nKnowledge Graph Statistics:")
-    #     print(f"Nodes: {stats['nodes']}")
-    #     print(f"Edges: {stats['edges']}")
-    #     print(f"Communities: {stats['communities']}")
+        # Visualize the knowledge graph
+        # stats = visualize_knowledge_graph(result, args.output, config=config)
+        # print("\nKnowledge Graph Statistics:")
+        # print(f"Nodes: {stats['nodes']}")
+        # print(f"Edges: {stats['edges']}")
+        # print(f"Communities: {stats['communities']}")
         
-    #     # Provide command to open the visualization in a browser
-    #     print("\nTo view the visualization, open the following file in your browser:")
-    #     print(f"file://{os.path.abspath(args.output)}")
-    # else:
-    #     print("Knowledge graph generation failed due to errors in LLM processing.")
+        # # Provide command to open the visualization in a browser
+        # print("\nTo view the visualization, open the following file in your browser:")
+        # print(f"file://{os.path.abspath(args.output)}")
+    else:
+        print("Knowledge graph generation failed due to errors in LLM processing.")
 
 if __name__ == "__main__":
     main() 

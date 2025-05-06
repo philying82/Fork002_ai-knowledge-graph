@@ -1,0 +1,596 @@
+[
+  {
+    "subject": "industrial revolution",
+    "predicate": "originated",
+    "object": "great britain",
+    "chunk": 1
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "started",
+    "object": "late 18th century",
+    "chunk": 1
+  },
+  {
+    "subject": "manual labor",
+    "predicate": "transitioned",
+    "object": "manufacturing",
+    "chunk": 1
+  },
+  {
+    "subject": "textile industry",
+    "predicate": "accelerated",
+    "object": "production dramatically",
+    "chunk": 1
+  },
+  {
+    "subject": "james hargreaves",
+    "predicate": "invented",
+    "object": "spinning jenny",
+    "chunk": 1
+  },
+  {
+    "subject": "richard arkwright",
+    "predicate": "invented",
+    "object": "water frame",
+    "chunk": 1
+  },
+  {
+    "subject": "james watt",
+    "predicate": "refined",
+    "object": " steam engine",
+    "chunk": 2
+  },
+  {
+    "subject": " steam engine",
+    "predicate": "revolutionized",
+    "object": "manufacturing",
+    "chunk": 1
+  },
+  {
+    "subject": " steam engine",
+    "predicate": "revolutionized",
+    "object": "mining",
+    "chunk": 1
+  },
+  {
+    "subject": " steam engine",
+    "predicate": "revolutionized",
+    "object": "transport",
+    "chunk": 1
+  },
+  {
+    "subject": "james watt",
+    "predicate": "enabling",
+    "object": "manufacturing",
+    "chunk": 2
+  },
+  {
+    "subject": "james watt",
+    "predicate": "enabling",
+    "object": "mining",
+    "chunk": 2
+  },
+  {
+    "subject": "james watt",
+    "predicate": "enabling",
+    "object": "transport",
+    "chunk": 2
+  },
+  {
+    "subject": "railways",
+    "predicate": "revolutionized",
+    "object": "transport",
+    "chunk": 2
+  },
+  {
+    "subject": "steel locomotives",
+    "predicate": "revolutionized",
+    "object": "transport",
+    "chunk": 2
+  },
+  {
+    "subject": "steel ships",
+    "predicate": "revolutionized",
+    "object": "trade",
+    "chunk": 2
+  },
+  {
+    "subject": "britain's london",
+    "predicate": "participated",
+    "object": "liverpool-manchester railway",
+    "chunk": 2
+  },
+  {
+    "subject": "america's",
+    "predicate": "influenced",
+    "object": "transcontinental railroad",
+    "chunk": 2
+  },
+  {
+    "subject": "railways",
+    "predicate": "interconnected",
+    "object": "continents",
+    "chunk": 2
+  },
+  {
+    "subject": "railways",
+    "predicate": "fostering",
+    "object": "urbanization",
+    "chunk": 2
+  },
+  {
+    "subject": "industrial cities",
+    "predicate": "became",
+    "object": "epicenters",
+    "chunk": 2
+  },
+  {
+    "subject": "manchester",
+    "predicate": "located",
+    "object": "england",
+    "chunk": 2
+  },
+  {
+    "subject": "birmingham",
+    "predicate": "located",
+    "object": "england",
+    "chunk": 2
+  },
+  {
+    "subject": "pittsburgh",
+    "predicate": "located",
+    "object": "usa",
+    "chunk": 2
+  },
+  {
+    "subject": "lowell",
+    "predicate": "located",
+    "object": "massachusetts",
+    "chunk": 2
+  },
+  {
+    "subject": "industrial cities",
+    "predicate": "hosted",
+    "object": "trade",
+    "chunk": 2
+  },
+  {
+    "subject": "industrial cities",
+    "predicate": "hosted",
+    "object": "migration",
+    "chunk": 2
+  },
+  {
+    "subject": "manchester",
+    "predicate": "centered",
+    "object": "manufacturing",
+    "chunk": 2
+  },
+  {
+    "subject": "pittsburgh",
+    "predicate": "centered",
+    "object": "manufacturing",
+    "chunk": 2
+  },
+  {
+    "subject": "lowell",
+    "predicate": "centered",
+    "object": "manufacturing",
+    "chunk": 2
+  },
+  {
+    "subject": "birmingham",
+    "predicate": "centered",
+    "object": "manufacturing",
+    "chunk": 2
+  },
+  {
+    "subject": "gin",
+    "predicate": "developed",
+    "object": "cotton production",
+    "chunk": 2
+  },
+  {
+    "subject": "cyrus mccormick's mechanical reaper",
+    "predicate": "invented",
+    "object": "textile industry",
+    "chunk": 2
+  },
+  {
+    "subject": "capitalism",
+    "predicate": "matured",
+    "object": "economy",
+    "chunk": 2
+  },
+  {
+    "subject": "gin",
+    "predicate": "replaced",
+    "object": "cyrus mccormick's mechanical reaper",
+    "chunk": 3
+  },
+  {
+    "subject": "efficient food production",
+    "predicate": "enabled by",
+    "object": "gin",
+    "chunk": 3
+  },
+  {
+    "subject": "capitalism",
+    "predicate": "matured significantly",
+    "object": ".",
+    "chunk": 3
+  },
+  {
+    "subject": "adam smith",
+    "predicate": "authored",
+    "object": "the wealth of nations",
+    "chunk": 3
+  },
+  {
+    "subject": "industrial boom",
+    "predicate": "led to",
+    "object": "harsh labor conditions",
+    "chunk": 3
+  },
+  {
+    "subject": "child labor restrictions",
+    "predicate": "introduced by",
+    "object": "\u82f1\u56fd's factory acts",
+    "chunk": 3
+  },
+  {
+    "subject": "activists such as robert owen",
+    "predicate": "promoted improved worker",
+    "object": ".",
+    "chunk": 3
+  },
+  {
+    "subject": "utopian communities like new lanark",
+    "predicate": "fostered by",
+    "object": "robert owen's work",
+    "chunk": 3
+  },
+  {
+    "subject": "legislation such as britain's factory acts",
+    "predicate": "passaged during",
+    "object": ".",
+    "chunk": 3
+  },
+  {
+    "subject": "child_labor",
+    "predicate": "introduces",
+    "object": "workplace_safety_regulations",
+    "chunk": 4
+  },
+  {
+    "subject": "telephone",
+    "predicate": "invented_by",
+    "object": "alexander_graham_bell",
+    "chunk": 4
+  },
+  {
+    "subject": "radio",
+    "predicate": "invented_by",
+    "object": "guglielmo_marconi",
+    "chunk": 4
+  },
+  {
+    "subject": "global_communications",
+    "predicate": "revolutionized",
+    "object": "interconnectedness",
+    "chunk": 4
+  },
+  {
+    "subject": "interconnectedness",
+    "predicate": "enhanced",
+    "object": "cultural_exchange",
+    "chunk": 4
+  },
+  {
+    "subject": "steel locomotives",
+    "predicate": "revolutionized transport along",
+    "object": "textile industry",
+    "inferred": true
+  },
+  {
+    "subject": "cotton production",
+    "predicate": "enabled by textile",
+    "object": "efficient food production and manual labor",
+    "inferred": true
+  },
+  {
+    "subject": "manual labor",
+    "predicate": "influenced",
+    "object": "capitalism",
+    "inferred": true
+  },
+  {
+    "subject": "steel locomotives",
+    "predicate": "helped revolutionize",
+    "object": "economy",
+    "inferred": true
+  },
+  {
+    "subject": "activists such as robert owen",
+    "predicate": "pushed for",
+    "object": "legislation",
+    "inferred": true
+  },
+  {
+    "subject": "manual labor",
+    "predicate": "led to",
+    "object": "industrial cities becoming epicenters",
+    "inferred": true
+  },
+  {
+    "subject": "steel ships",
+    "predicate": "revolutionized",
+    "object": "trade through industrial cities acting as epicenters",
+    "inferred": true
+  },
+  {
+    "subject": "England",
+    "predicate": "initiated Industrial Revolution",
+    "object": "Great Britain",
+    "inferred": true
+  },
+  {
+    "subject": "late 18th century",
+    "predicate": "marked the start",
+    "object": "Great Britain",
+    "inferred": true
+  },
+  {
+    "subject": "Steel locomotives",
+    "predicate": "revolutionized transport during",
+    "object": "Industrial Revolution",
+    "inferred": true
+  },
+  {
+    "subject": "textile industry",
+    "predicate": "accelerated due to",
+    "object": "capitalism",
+    "inferred": true
+  },
+  {
+    "subject": "legislation such as britain's factory acts",
+    "predicate": "influenced by",
+    "object": "activists such as robert owen",
+    "inferred": true
+  },
+  {
+    "subject": "efficient food production",
+    "predicate": "enabled by",
+    "object": "Gin",
+    "inferred": true
+  },
+  {
+    "subject": "textile industry",
+    "predicate": "caused",
+    "object": "industrial cities as epicenters",
+    "inferred": true
+  },
+  {
+    "subject": "Cyrus McCormick's mechanical reaper",
+    "predicate": "developed in Britain",
+    "object": "late 18th century",
+    "inferred": true
+  },
+  {
+    "subject": "Industrial revolution",
+    "predicate": "led to",
+    "object": "textile industry",
+    "inferred": true
+  },
+  {
+    "subject": "capitalism",
+    "predicate": "revolutionized",
+    "object": "trade",
+    "inferred": true
+  },
+  {
+    "subject": "steel ships",
+    "predicate": "led to",
+    "object": "industrial cities became epicenters",
+    "inferred": true
+  },
+  {
+    "subject": "capitalism",
+    "predicate": "driven by",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "legislation such as britain's factory acts",
+    "predicate": "passed during",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "activists such as robert owen",
+    "predicate": "promoted during",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "industrial cities",
+    "predicate": "became epicenters during",
+    "object": "the late 18th century",
+    "inferred": true
+  },
+  {
+    "subject": "great britain",
+    "predicate": "underwent industrial revolution",
+    "object": "the late 18th century",
+    "inferred": true
+  },
+  {
+    "subject": "efficient food production",
+    "predicate": "competitor of",
+    "object": "cotton production",
+    "inferred": true
+  },
+  {
+    "subject": "efficient food production",
+    "predicate": "contributed to by",
+    "object": "production dramatically enhanced",
+    "inferred": true
+  },
+  {
+    "subject": "cotton production",
+    "predicate": "opposite of",
+    "object": "efficient food production",
+    "inferred": true
+  },
+  {
+    "subject": "cotton production",
+    "predicate": "facilitated by",
+    "object": "production dramatically enhanced",
+    "inferred": true
+  },
+  {
+    "subject": "production dramatically enhanced",
+    "predicate": "caused by",
+    "object": "efficient food production",
+    "inferred": true
+  },
+  {
+    "subject": "robert owen",
+    "predicate": "participated_in",
+    "object": "britain's factory acts",
+    "inferred": true
+  },
+  {
+    "subject": "gin",
+    "predicate": "replaced via cyrus",
+    "object": "textile industry",
+    "inferred": true
+  },
+  {
+    "subject": "cyrus mccormick's mechanical reaper",
+    "predicate": "invented via textile",
+    "object": "production dramatically",
+    "inferred": true
+  },
+  {
+    "subject": "efficient food production",
+    "predicate": "enabled by via",
+    "object": "cotton production",
+    "inferred": true
+  },
+  {
+    "subject": "efficient food production",
+    "predicate": "enabled by via",
+    "object": "cyrus mccormick's mechanical reaper",
+    "inferred": true
+  },
+  {
+    "subject": "global_communications",
+    "predicate": "revolutionized via interconnectedness",
+    "object": "cultural_exchange",
+    "inferred": true
+  },
+  {
+    "subject": "manual labor",
+    "predicate": "related to",
+    "object": "child labor restrictions",
+    "inferred": true
+  },
+  {
+    "subject": "manual labor",
+    "predicate": "related to",
+    "object": "harsh labor conditions",
+    "inferred": true
+  },
+  {
+    "subject": " steam engine",
+    "predicate": "is type of",
+    "object": "gin",
+    "inferred": true
+  },
+  {
+    "subject": "legislation such as britain's factory acts",
+    "predicate": "relates to",
+    "object": "britain's london",
+    "inferred": true
+  },
+  {
+    "subject": "legislation such as britain's factory acts",
+    "predicate": "related to",
+    "object": "\u82f1\u56fd's factory acts",
+    "inferred": true
+  },
+  {
+    "subject": "legislation such as britain's factory acts",
+    "predicate": "related to",
+    "object": "activists such as robert owen",
+    "inferred": true
+  },
+  {
+    "subject": "child labor restrictions",
+    "predicate": "related to",
+    "object": "harsh labor conditions",
+    "inferred": true
+  },
+  {
+    "subject": "steel locomotives",
+    "predicate": "related to",
+    "object": "steel ships",
+    "inferred": true
+  },
+  {
+    "subject": "activists such as robert owen",
+    "predicate": "relates to",
+    "object": "robert owen's work",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "related to",
+    "object": "industrial boom",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "related to",
+    "object": "industrial cities",
+    "inferred": true
+  },
+  {
+    "subject": "liverpool-manchester railway",
+    "predicate": "is type of",
+    "object": "manchester",
+    "inferred": true
+  },
+  {
+    "subject": "cotton production",
+    "predicate": "related to",
+    "object": "efficient food production",
+    "inferred": true
+  },
+  {
+    "subject": "cotton production",
+    "predicate": "relates to",
+    "object": "production dramatically",
+    "inferred": true
+  },
+  {
+    "subject": "industrial boom",
+    "predicate": "related to",
+    "object": "industrial cities",
+    "inferred": true
+  },
+  {
+    "subject": "efficient food production",
+    "predicate": "relates to",
+    "object": "production dramatically",
+    "inferred": true
+  },
+  {
+    "subject": "james watt",
+    "predicate": "related to",
+    "object": "james hargreaves",
+    "inferred": true
+  }
+]
