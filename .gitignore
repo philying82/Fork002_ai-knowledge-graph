@@ -8,3 +8,7 @@ lib/
 __pycache__
 
 **/contracts/
+**/output/
+**/.chainlit/
+**/.files/
+
